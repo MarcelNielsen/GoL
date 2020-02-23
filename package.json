@@ -1,0 +1,30 @@
+{
+    "name": "gol",
+    "version": "1.0.0",
+    "description": "Life Simulation",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MarcelNielsen/GoL.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MarcelNielsen/GoL/issues"
+    },
+    "homepage": "https://github.com/MarcelNielsen/GoL#readme",
+    "dependencies": {
+        "@zeit/next-css": "^1.0.1",
+        "isomorphic-unfetch": "^3.0.0",
+        "next": "^9.2.2",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "react-markdown": "^4.3.1"
+    }
+}
